@@ -1,5 +1,5 @@
 # React-Basic-Questions
-React Basic Questions
+Basic Questions
 1. Operators: https://codesandbox.io/s/operators-9gnvj
 2. Numbers: https://codesandbox.io/s/numbers-ub3s0
 3. Functions: https://codesandbox.io/s/functions-ipqwv
