@@ -1,4 +1,4 @@
-# React-Basic-Questions
+# Basic-Programming-Questions
 Basic Questions
 1. Operators: https://codesandbox.io/s/operators-9gnvj
 2. Numbers: https://codesandbox.io/s/numbers-ub3s0
